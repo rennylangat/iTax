@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1563263697 source:c:\users\user\desktop\coomp troubleshooting\edmond\taxfinal\main.cpp
+	<iostream>
+	<math.h>
+	<string>
+
